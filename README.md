@@ -8,6 +8,12 @@ A collaborative effort to:
 
 1. Summarize the contents of each section as objectively as possible.
 
+## Sources
+
+- https://www.congress.gov/bill/117th-congress/house-bill/5376/text
+- https://www.govtrack.us/congress/bills/117/hr5376/text
+- https://rules.house.gov/bill/117/hr-5376
+
 ## Remaining Work
 
 - [ ] finish laying out all the original text into sections / subsections

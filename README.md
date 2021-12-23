@@ -21,6 +21,7 @@ A collaborative effort to:
 - [ ] plain-English translations of each section/page - should probably be a sub page so that the original can stay separate
 - [ ] public, non-Edward repo
 - [ ] Git{Hub,Lab} pages
+  - [Deploy to GitHub Pages](https://docusaurus.io/docs/deployment)
 
 ## Meta
 
@@ -35,3 +36,5 @@ yarn install
 cd docs
 yarn run start
 ```
+
+Use your browser to navigate to [http://localhost:3000](http://localhost:3000)

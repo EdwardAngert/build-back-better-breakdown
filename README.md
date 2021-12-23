@@ -29,6 +29,7 @@ A collaborative effort to:
 - [ ] public, non-Edward repo
 - [ ] Git{Hub,Lab} pages
   - [Deploy to GitHub Pages](https://docusaurus.io/docs/deployment)
+- [ ] Add a license? Probably closest to [BY-NC-SA](https://en.wikipedia.org/wiki/Creative_Commons_license#Types_of_license)?
 
 ## Meta
 

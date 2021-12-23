@@ -18,11 +18,11 @@ A collaborative effort to:
 
 - [ ] finish laying out all the original text into sections / subsections
 - [ ] intro page
-- [ ] algolia search
+- [ ] [algolia docsearch](https://docusaurus.io/docs/search#using-algolia-docsearch)
 - [ ] new components
   - [ ] glossary (should this be by section?)
   - [ ] tag each dollar amount, ideally with the purpose
-    - [ ] total dollar amounts in a table `| purpose | dollars |`
+    - [ ] total dollar amounts in a table `| purpose | dollars | link |`
     - [ ] a glossary-style page that lists out each
 - [ ] plain-English translations of each section/page - should probably be a sub page so that the original can stay separate
 - [ ] style / design / formatting - replace all the default Docusaurus stuff with relevant info

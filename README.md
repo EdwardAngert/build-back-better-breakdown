@@ -25,6 +25,7 @@ A collaborative effort to:
     - [ ] total dollar amounts in a table `| purpose | dollars |`
     - [ ] a glossary-style page that lists out each
 - [ ] plain-English translations of each section/page - should probably be a sub page so that the original can stay separate
+- [ ] style / design / formatting - replace all the default Docusaurus stuff with relevant info
 - [ ] public, non-Edward repo
 - [ ] Git{Hub,Lab} pages
   - [Deploy to GitHub Pages](https://docusaurus.io/docs/deployment)

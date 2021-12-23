@@ -19,7 +19,19 @@ A collaborative effort to:
     - [ ] total dollar amounts in a table `| purpose | dollars |`
     - [ ] a glossary-style page that lists out each
 - [ ] plain-English translations of each section/page - should probably be a sub page so that the original can stay separate
+- [ ] public, non-Edward repo
+- [ ] Git{Hub,Lab} pages
 
 ## Meta
 
 The site is built using [Docusaurus 2](https://docusaurus.io/).
+
+To run and develop locally, you'll need (git,) npm and yarn:
+
+```shell
+git clone
+cd build-back-better-breakdown
+yarn install
+cd docs
+yarn run start
+```

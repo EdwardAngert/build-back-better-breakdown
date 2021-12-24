@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Build Back Better - HR-5376',
+  tagline: 'Reorganized and made sense of.',
   url: 'https://edwardangert.github.io',
   baseUrl: '/build-back-better-breakdown/',
   onBrokenLinks: 'throw',
@@ -44,7 +44,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'H.R.5376',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -54,9 +54,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Explore the Act',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://github.com/EdwardAngert/build-back-better-breakdown',
             label: 'GitHub',
@@ -68,10 +68,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'H.R.5376',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Explore the Act',
                 to: '/docs/intro',
               },
             ],

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuild_back_better_breakdown=self.webpackChunkbuild_back_better_breakdown||[]).push([[824],{6438:function(b){b.exports=JSON.parse('{"allTagsPath":"/build-back-better-breakdown/blog/tags","slug":"/build-back-better-breakdown/blog/tags/facebook","name":"facebook","count":1,"permalink":"/build-back-better-breakdown/blog/tags/facebook"}')}}]);

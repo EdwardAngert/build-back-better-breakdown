@@ -38,7 +38,7 @@ The site is built using [Docusaurus 2](https://docusaurus.io/).
 To run and develop locally, you'll need (git,) npm and yarn:
 
 ```shell
-git clone
+git clone git@github.com:EdwardAngert/build-back-better-breakdown.git
 cd build-back-better-breakdown
 yarn install
 cd docs

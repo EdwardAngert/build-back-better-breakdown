@@ -2,34 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Build Back Better Act Breakdown
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Goal
 
-## Getting Started
+A collaborative effort to:
 
-Get started by **creating a new site**.
+1. Outline each section of the Build Back Better Act in a way that's easier to understand, navigate, and search.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. Summarize the contents of each section as objectively as possible.
 
-## Generate a new site
+## Sources
 
-Generate a new Docusaurus site using the **classic template**:
+- https://www.congress.gov/bill/117th-congress/house-bill/5376/text
+- https://www.govtrack.us/congress/bills/117/hr5376/text
+- https://rules.house.gov/bill/117/hr-5376
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+## How to Contribute
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+[GitHub](https://github.com/EdwardAngert/build-back-better-breakdown)

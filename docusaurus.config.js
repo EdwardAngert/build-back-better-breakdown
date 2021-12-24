@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'EdwardAngert', // Usually your GitHub org/user name.
   projectName: 'build-back-better-breakdown', // Usually your repo name.
-  deploymentBranch: 'gh-pages' // The name of deployment branch. Defaults to 'gh-pages' for non-organization GitHub Pages repos (projectName not ending in .github.io). Otherwise, this needs to be explicit as a config field or environment variable.
+  deploymentBranch: 'gh-pages', // The name of deployment branch. Defaults to 'gh-pages' for non-organization GitHub Pages repos (projectName not ending in .github.io). Otherwise, this needs to be explicit as a config field or environment variable.
 
   presets: [
     [

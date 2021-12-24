@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://edwardangert.github.io/build-back-better-breakdown',
-  baseUrl: '/',
+  url: 'https://edwardangert.github.io',
+  baseUrl: '/build-back-better-breakdown/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

@@ -11,7 +11,7 @@ A collaborative effort to:
 ## Current Status
 
 - copying from source into new md files for each major section/part
-  - this'll make it easier for contributors to take manageable contributions
+  - this'll make it easier for contributors to make manageable contributions
 - figuring out file structure and naming conventions - to be added as a Style section in the intro or in a CONTRIBUTING doc
 
 ## Sources

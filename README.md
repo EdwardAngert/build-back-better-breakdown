@@ -8,6 +8,12 @@ A collaborative effort to:
 
 1. Summarize the contents of each section as objectively as possible.
 
+## Current Status
+
+- copying from source into new md files for each major section/part
+  - this'll make it easier for contributors to take manageable contributions
+- figuring out file structure and naming conventions - to be added as a Style section in the intro or in a CONTRIBUTING doc
+
 ## Sources
 
 - https://www.congress.gov/bill/117th-congress/house-bill/5376/text

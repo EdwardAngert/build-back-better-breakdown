@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 8
 ---
 
 # PART 8 - OTHER ENERGY MATTERS

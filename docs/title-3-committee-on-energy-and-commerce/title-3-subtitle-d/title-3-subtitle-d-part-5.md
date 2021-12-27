@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 ---
 
 # PART 5 - DOE LOAN AND GRANT PROGRAMS

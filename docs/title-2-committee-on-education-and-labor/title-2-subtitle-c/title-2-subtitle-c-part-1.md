@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-PART 1--DEPARTMENT OF LABOR
+# PART 1 - DEPARTMENT OF LABOR
 
-SEC. 22001. DISLOCATED WORKER EMPLOYMENT AND TRAINING ACTIVITIES.
+## SEC. 22001. DISLOCATED WORKER EMPLOYMENT AND TRAINING ACTIVITIES.
 
     (a) In General.--In addition to amounts otherwise made available, 
 there is appropriated to the Department of Labor for fiscal year 2022, 

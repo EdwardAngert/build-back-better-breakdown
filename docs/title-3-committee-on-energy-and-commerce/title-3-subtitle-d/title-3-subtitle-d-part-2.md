@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # PART 2 - RESIDENTIAL EFFICIENCY AND ELECTRIFICATION REBATES

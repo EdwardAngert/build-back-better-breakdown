@@ -1,8 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# C. 21001. DEPARTMENT OF LABOR.
+# Subtitle B - Labor Matters
+
+## SEC. 21001. DEPARTMENT OF LABOR.
 
     In addition to amounts otherwise available, out of any money in the 
 Treasury not otherwise appropriated, there are appropriated to the 

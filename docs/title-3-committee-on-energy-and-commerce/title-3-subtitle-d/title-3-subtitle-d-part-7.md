@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 ---
 
-# PART 7--ENVIRONMENTAL REVIEWS
+# PART 7 - ENVIRONMENTAL REVIEWS
 
 SEC. 30471. DEPARTMENT OF ENERGY.
 

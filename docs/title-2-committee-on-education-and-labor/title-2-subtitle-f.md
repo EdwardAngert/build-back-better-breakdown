@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 ---
 
-# Subtitle F--Human Services and Community Supports
+# Subtitle F - Human Services and Community Supports
 
 ## SEC. 25001. ASSISTIVE TECHNOLOGY.
 

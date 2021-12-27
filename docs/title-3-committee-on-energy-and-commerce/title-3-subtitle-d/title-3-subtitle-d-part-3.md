@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # PART 3 - BUILDING EFFICIENCY AND RESILIENCE

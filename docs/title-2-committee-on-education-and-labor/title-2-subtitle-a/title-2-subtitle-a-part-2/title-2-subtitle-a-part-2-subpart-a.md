@@ -2,11 +2,9 @@
 sidebar_position: 1
 ---
 
-PART 2 - HIGHER EDUCATION
+# Subpart A - America's College Promise
 
-Subpart A--America's College Promise
-
-SEC. 20021. GRANTS FOR TUITION-FREE COMMUNITY COLLEGE.
+## SEC. 20021. GRANTS FOR TUITION-FREE COMMUNITY COLLEGE.
 
     Title VII of the Higher Education Act of 1965 (20 U.S.C. 1133 et 
 seq.) is amended by adding at the end the following:

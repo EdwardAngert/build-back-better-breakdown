@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-PART 4--RECRUITMENT, EDUCATION AND TRAINING, RETENTION, AND CAREER 
+# PART 4 - RECRUITMENT, EDUCATION AND TRAINING, RETENTION, AND CAREER 
                ADVANCEMENTS FOR THE DIRECT CARE WORKFORCE
 
-SEC. 22301. DEFINITIONS.
+## SEC. 22301. DEFINITIONS.
 
     In this part:
             (1) Cte definitions.--The terms ``evidence-based'' and 

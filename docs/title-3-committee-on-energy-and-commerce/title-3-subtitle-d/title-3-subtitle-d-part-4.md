@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # PART 4 - ZERO EMISSIONS VEHICLE INFRASTRUCTURE BUILDOUT

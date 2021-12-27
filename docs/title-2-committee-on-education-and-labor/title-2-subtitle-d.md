@@ -1,11 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # Subtitle D - Child Care and Universal Pre-Kindergarten
 
-SEC. 23001. BIRTH THROUGH FIVE CHILD CARE AND EARLY LEARNING 
-              ENTITLEMENT.
+## SEC. 23001. BIRTH THROUGH FIVE CHILD CARE AND EARLY LEARNING ENTITLEMENT.
 
     (a) Short Title.--This section may be cited as the ``Birth Through 
 Five Child Care and Early Learning Entitlement Act''.

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-PART 6--DEPARTMENT OF LABOR INSPECTOR GENERAL FUNDING
+# PART 6 - DEPARTMENT OF LABOR INSPECTOR GENERAL FUNDING
 
-SEC. 22501. DEPARTMENT OF LABOR INSPECTOR GENERAL FUNDING.
+## SEC. 22501. DEPARTMENT OF LABOR INSPECTOR GENERAL FUNDING.
 
     In addition to amounts otherwise available, there is appropriated 
 to the Office of Inspector General of the Department of Labor for 

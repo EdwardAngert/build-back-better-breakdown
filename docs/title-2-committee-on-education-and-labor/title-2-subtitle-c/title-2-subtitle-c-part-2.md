@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-PART 2--DEPARTMENT OF EDUCATION
+# PART 2 - DEPARTMENT OF EDUCATION
 
-SEC. 22101. ADULT EDUCATION AND LITERACY.
+## SEC. 22101. ADULT EDUCATION AND LITERACY.
 
     (a) In General.--In addition to amounts otherwise made available, 
 there is appropriated to the Department of Education for fiscal year 

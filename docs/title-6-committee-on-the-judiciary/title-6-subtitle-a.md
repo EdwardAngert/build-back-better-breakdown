@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Immigration Provisions
+# Subtitle A - Immigration Provisions
 
 ## SEC. 60001. LAWFUL PERMANENT RESIDENCE FOR CERTAIN ENTRANTS.
 

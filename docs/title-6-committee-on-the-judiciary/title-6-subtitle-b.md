@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Community Violence Prevention
+# Subtitle B - Community Violence Prevention
 
 ## SEC. 61001. FUNDING FOR COMMUNITY-BASED VIOLENCE INTERVENTION INITIATIVES.
 

@@ -10,7 +10,7 @@ A collaborative effort to:
 
 ## Current Status
 
-- copying from source into new md files for each major section/part
+- [x] copying from source into new md files for each major section/part
   - this'll make it easier for contributors to make manageable contributions
 - figuring out file structure and naming conventions - to be added as a Style section in the intro or in a CONTRIBUTING doc
 
@@ -22,7 +22,7 @@ A collaborative effort to:
 
 ## Remaining Work
 
-- [ ] finish laying out all the original text into sections / subsections
+- [x] finish laying out all the original text into sections / subsections
 - [ ] intro page
 - [ ] [algolia docsearch](https://docusaurus.io/docs/search#using-algolia-docsearch)
 - [ ] new components

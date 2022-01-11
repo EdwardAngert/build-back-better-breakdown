@@ -49,39 +49,28 @@ In addition to amounts otherwise available, there are appropriated to the Secret
 1. $450,000,000 for the Legacy Roads and Trails program of the Forest Service;
 
 1. $350,000,000 for National Forest System land management planning and monitoring, with a focus on—
-(A)
 
-the assessment of watershed, ecological, and carbon conditions on National Forest System land; and
-(B)
+   1. the assessment of watershed, ecological, and carbon conditions on National Forest System land; and
 
-the revision and amendment of older land management plans that present opportunities to protect, maintain, restore, and monitor ecological integrity, ecological conditions for at-risk species, and carbon storage;
-(8)
+   1. the revision and amendment of older land management plans that present opportunities to protect, maintain, restore, and monitor ecological integrity, ecological conditions for at-risk species, and carbon storage;
 
-$100,000,000 for maintenance of trails on National Forest System land, with a focus on trails that provide to underserved communities access to National Forest System land;
-(9)
+1. $100,000,000 for maintenance of trails on National Forest System land, with a focus on trails that provide to underserved communities access to National Forest System land;
 
-$100,000,000 for capital maintenance and improvements on National Forest System land, with a focus on maintenance level 3, 4, and 5 roads and improvements that restore ecological integrity and conditions for at-risk species;
-(10)
+1. $100,000,000 for capital maintenance and improvements on National Forest System land, with a focus on maintenance level 3, 4, and 5 roads and improvements that restore ecological integrity and conditions for at-risk species;
 
-$100,000,000 to provide for more efficient and more effective environmental reviews by the Chief of the Forest Service in satisfying the obligations of the Chief of the Forest Service under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) through—
-(A)
+1. $100,000,000 to provide for more efficient and more effective environmental reviews by the Chief of the Forest Service in satisfying the obligations of the Chief of the Forest Service under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) through—
 
-the hiring and training of additional personnel;
-(B)
+   1. the hiring and training of additional personnel;
 
-the development of programmatic assessments or templates;
-(C)
+   1. the development of programmatic assessments or templates;
 
-the procurement of technical or scientific services;
-(D)
+   1. the procurement of technical or scientific services;
 
-the development of data or technology systems;
-(E)
+   1. the development of data or technology systems;
 
-stakeholder and community engagement; and
-(F)
+   1. stakeholder and community engagement; and
 
-the purchase of new equipment;
+   1. the purchase of new equipment;
 (11)
 
 $50,000,000 to develop and carry out activities and tactics for the protection of older and mature forests on National Forest System land, including completing an inventory of older and mature forests within the National Forest System;
